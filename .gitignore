@@ -1,2 +1,5 @@
 __pycache__/
 *.pyc
+# your own settings (boards per engineer, initials, zoom)
+boardview_settings.json
+boardview_settings.json.*
